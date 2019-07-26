@@ -1,0 +1,7 @@
+﻿  Reading Files.cpp
+C:\Users\yuvic\Desktop\C++ Programs\Reading Files\Reading Files\Reading Files.cpp(10,2): error C2065:  'fstream': undeclared identifier
+C:\Users\yuvic\Desktop\C++ Programs\Reading Files\Reading Files\Reading Files.cpp(10,10): error C2146:  syntax error: missing ';' before identifier 'fileStream'
+C:\Users\yuvic\Desktop\C++ Programs\Reading Files\Reading Files\Reading Files.cpp(10,10): error C2065:  'fileStream': undeclared identifier
+C:\Users\yuvic\Desktop\C++ Programs\Reading Files\Reading Files\Reading Files.cpp(12,2): error C2065:  'fileStream': undeclared identifier
+C:\Users\yuvic\Desktop\C++ Programs\Reading Files\Reading Files\Reading Files.cpp(12,38): error C2653:  'ios': is not a class or namespace name
+C:\Users\yuvic\Desktop\C++ Programs\Reading Files\Reading Files\Reading Files.cpp(12,35): error C2065:  'out': undeclared identifier

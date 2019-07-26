@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(57,21): warning C4305:  '-=': truncation from 'double' to 'T'
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(57,21): warning C4305:         with
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(57,21): warning C4305:         [
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(57,21): warning C4305:             T=float
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(57,21): warning C4305:         ]
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(59,21): warning C4305:  '+=': truncation from 'double' to 'T'
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(59,21): warning C4305:         with
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(59,21): warning C4305:         [
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(59,21): warning C4305:             T=float
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(59,21): warning C4305:         ]
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(61,21): warning C4305:  '-=': truncation from 'double' to 'T'
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(61,21): warning C4305:         with
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(61,21): warning C4305:         [
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(61,21): warning C4305:             T=float
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(61,21): warning C4305:         ]
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(63,21): warning C4305:  '+=': truncation from 'double' to 'T'
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(63,21): warning C4305:         with
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(63,21): warning C4305:         [
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(63,21): warning C4305:             T=float
+C:\Users\yuvic\Desktop\C++ Programs\Camera\Camera\main.cpp(63,21): warning C4305:         ]
+  Camera.vcxproj -> C:\Users\yuvic\Desktop\C++ Programs\Camera\Debug\Camera.exe
